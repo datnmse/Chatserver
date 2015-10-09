@@ -1,0 +1,143 @@
+.buttonketban .style1
+{
+    height:23px;
+    line-height:10px;
+}
+.goiyketban .buttonketban img
+{
+    top:7px !important;
+}
+.box-chat #content-box-chat #ct-box-chat fieldset legend
+{
+    width:98%;
+    text-align:center;
+}
+#header
+{
+    -moz-box-shadow: 0 2px 2px -2px #000;
+    box-shadow: 0 2px 2px -2px #000;
+}
+#header #contentheadera .search #timkiem,
+#header #contentheadera .search #timkiem input
+{
+    border-radius:3px;
+    -moz-border-radius:3px;
+}
+#header #contentheadera .naaa #contentnaaa .relative .sltt
+{
+    border-radius: 2px;
+    -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, .7);
+}
+#header #contentheadera .naaa #contentnaaa a:hover
+{
+    border-radius:2px;
+    -moz-border-radius:2px;
+}
+#box-list-friend.rlfriend
+{
+    box-shadow: 0px 0px 3px #ccc;
+    -moz-box-shadow: 0px 0px 3px #ccc;
+}
+.box-chat, #box-chat-small
+{
+    -moz-box-shadow: 0 1px 1px #7584A3;
+    box-shadow: 0 1px 1px #7584A3;
+    -moz-border-top-left-radius: 3px;
+    -moz-border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+.box-chat #content-box-chat #ct-box-chat .ct-chat.r,.box-chat #content-box-chat #ct-box-chat .ct-chat.l
+{
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -moz-box-shadow: 0 1px 0 #dce0e6;
+    box-shadow: 0 1px 0 #dce0e6;
+}
+.box-chat #content-box-chat #ct-box-chat .ct-chat.r
+{
+    background-image: gradient(linear, center bottom, center top, from(#c7defe), to(#e7f1fe));
+    background-image: linear-gradient(bottom, #c7defe, #e7f1fe);
+}
+.dropdownmenu .dropdown2 .contentdrop
+{
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -moz-background-clip: padding-box;
+    background-clip: padding-box;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+    -moz-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+}
+.infouserfriend.tooltipp .ct-tooltip
+{
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    -moz-box-shadow: 0 0 0 1px rgba(0, 0, 0, .1), 0 1px 10px rgba(0, 0, 0, .35);
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, .1), 0 1px 10px rgba(0, 0, 0, .35);
+}
+.button
+{
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+.button.style2,.button.style3
+{
+    -moz-border-radius: 2px;
+    -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+    border-radius: 2px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+}
+.boxthongbao
+{
+    border-radius:2px;
+    -moz-border-radius:2px;
+}
+.buttonketban .style1
+{
+    -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+    -moz-box-sizing: content-box;
+    -moz-font-smoothing: antialiased;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+    box-sizing: content-box;
+    font-smoothing: antialiased;
+}
+.dialog #dlContent
+{
+    -moz-box-shadow: 0 2px 26px rgba(0, 0, 0, .3), 0 0 0 1px rgba(0, 0, 0, .1);
+    box-shadow: 0 2px 26px rgba(0, 0, 0, .3), 0 0 0 1px rgba(0, 0, 0, .1);
+}
+.dialog.dialogradius-3 #dlContent
+{
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+}
+.dialog.dialogradius-5 #dlContent
+{
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+.dialog.dialogradius-3 #headerdl
+{
+    -moz-border-radius: 3px 3px 0 0;
+    border-radius: 3px 3px 0 0;
+}
+#idloader1_2
+{
+    background:rgba(0,0,0,0.8);
+    border-radius:5px;
+    -moz-border-radius:5px;
+}
+#KhungLMA
+{
+    -moz-box-shadow:0px 0px 3px blue;
+    -moz-border-radius:5px;
+    box-shadow:0px 0px 3px blue;
+    border-radius:5px;
+}
+#tooltipdrop #ctdropdowntool #contenttooldrop
+{
+    -moz-border-radius: 2px;
+    -moz-box-shadow:0 0 0 1px rgba(0, 0, 0, .1), 0 1px 10px rgba(0, 0, 0, .35);
+    border-radius: 2px;
+    box-shadow:0 0 0 1px rgba(0, 0, 0, .1), 0 1px 10px rgba(0, 0, 0, .35);
+}

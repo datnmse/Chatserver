@@ -1,0 +1,124 @@
+.postitem .headerpostitem
+{
+    background: #f6f7f8;
+    border-bottom: 1px solid #d3d6db;
+    -webkit-border-radius: 2px 2px 0 0;
+    min-height: 66px;
+    padding-top: 16px;
+    padding-left:25px;
+}
+.postitem .headerpostitem h3
+{
+    margin-top:0px;
+}
+.postitem .headerpostitem h3 img
+{
+    margin-right:5px;
+    width:24px;
+    height:24px;
+}
+.postitem .headerpostitem h3 a
+{
+    margin-top:3px;
+    font-size:16px;
+}
+.postitem .headerpostitem .tabfriend
+{
+    margin-top:1px;
+}
+.postitem .headerpostitem .tabfriend a
+{
+    font-weight:bold;
+    padding-right:15px;
+    position:relative;
+}
+.postitem .headerpostitem .tabfriend a span
+{
+    color: #89919c !important;
+    font-size: 12px;
+    margin-left: 5px;
+    font-weight:normal;
+}
+.postitem .headerpostitem .tabfriend a .mtta
+{
+    background-position: -150px -196px;
+    height: 7px;
+    left: 50%;
+    margin-left: -7px;
+    position: absolute;
+    top:21px;
+    width: 15px;
+    display:none;
+}
+.postitem .headerpostitem .tabfriend a:hover,.postitem .headerpostitem .tabfriend a.active
+{
+    color: #141823;
+    text-decoration:none;
+}
+.postitem .headerpostitem .tabfriend a.active b.mtta
+{
+    display:block;
+}
+.boxlist .item
+{
+    float:left;
+    width:47%;
+    border:1px solid #e9eaed;
+    margin:8px 1%;
+}
+.boxlist .item .itemimg
+{
+    float:left;
+    margin-right:10px;
+}
+.boxlist .item .itemb
+{
+    height:100px;
+    float:left;
+    width:69%;
+}
+.boxlist .item .itemb .itemname
+{
+    float:left;
+    width:70%;
+
+    margin-top:14%;
+}
+.boxlist .item .itemb .itembb
+{
+    float:left;
+    width:30%;
+    padding-top:10%;
+}
+.boxlist .item .itemb .itembb .dropdown2
+{
+    position:fixed !important;
+}
+.trumt
+{
+    margin-top:-5px;
+
+}
+.trumta,.trumt
+{
+    margin-right:15px;
+}
+.trumta
+{
+    margin-top:-10px;
+}
+.btnnottext .groupicon1
+{
+    left:13px;
+    top:6px;
+}
+.btnnottext .quanly
+{
+    background-position: -179px -481px;
+    width: 16px;
+}
+.searchinput
+{
+
+    width:222px;
+}

@@ -1,0 +1,38 @@
+#_Box1
+{
+    width:30%;
+    border:1px solid #3b5998;
+    margin:15% auto;
+    font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;
+    background-color:White;
+    box-shadow:0px 0px 3px #3b5998;
+    -moz-box-shadow:0px 0px 3px #3b5998;
+    -webkit-box-shadow:0px 0px 3px #3b5998;
+    border-radius:2px;
+    -moz-border-radius:2px;
+    -webkit-border-radius:2px;
+}
+#_Box1 #HeaderBox{
+    background-color:#3b5998;
+    color:White;
+    padding:7px 8px;
+    font-size:12px;
+    border-bottom:1px solid #3b5998;
+
+}
+#_Box1 #ContentBox
+{
+    padding:10px;
+    font-family: Times New Roman;
+    font-size:14px;
+}
+#_Box1 #ContentBox a
+{
+    text-decoration:none;
+    color:#3b5998;
+}
+#_Box1 #ContentBox a:hover
+{
+    text-decoration:underline;
+    font-family:Times New Roman;
+}
